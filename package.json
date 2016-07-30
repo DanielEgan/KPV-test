@@ -1,0 +1,17 @@
+{
+  "name": "kpvtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Egan <daniel.egan@live.com> (http://TheSociableGeek.com)",
+  "license": "MIT",
+  "dependencies": {
+    "node-record-lpcm16": "^0.1.4",
+    "node-rest-client": "^2.0.1",
+    "restler": "^3.4.0"
+  }
+}
